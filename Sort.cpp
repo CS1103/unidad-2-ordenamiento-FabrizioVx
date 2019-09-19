@@ -3,3 +3,9 @@
 //
 
 #include "Sort.h"
+
+
+Sort::Sort() {
+    array = nullptr;
+    int size = 0;
+}
